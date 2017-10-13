@@ -13,7 +13,8 @@
     "URL": "https://www.dati.lombardia.it/resource/x9ve-yusb.json",
     "LAT": "latitudine",
     "LON": "longitudine",
-    "TITLE": "nome"
+    "TITLE": "nome",
+    "SNIPPET":"note_disponibilit"
   },
   {
     "ID": "parkmeter",
