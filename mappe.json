@@ -1,0 +1,40 @@
+[
+  {
+    "ID": "parchi",
+    "Nome": "Parchi gioco",
+    "URL": "https://www.dati.lombardia.it/resource/2c3k-kq4x.json",
+    "LAT": "latitudine",
+    "LON": "longitudine",
+    "TITLE": "nome"
+  },
+  {
+    "ID": "dae",
+    "Nome": "Mappa defibrillatori",
+    "URL": "https://www.dati.lombardia.it/resource/x9ve-yusb.json",
+    "LAT": "latitudine",
+    "LON": "longitudine",
+    "TITLE": "nome"
+  },
+  {
+    "ID": "parkmeter",
+    "Nome": "Mappa parchimetri",
+    "URL": "https://www.dati.lombardia.it/resource/qqa8-3h3c.json",
+    "LAT": "latitudine",
+    "LON": "longitudine",
+    "TITLE": "indirizzo",
+    "FILTER": [
+      {
+        "FIELD": "tipo",
+        "VALUE": "Park Meter"
+      }
+    ]
+  },
+  {
+    "ID": "cestini",
+    "Nome": "Mappa cestini",
+    "URL": "https://www.dati.lombardia.it/resource/64vi-4kf2.json",
+    "LAT": "latitudine",
+    "LON": "longitudine",
+    "TITLE": "codice"
+  }
+]
