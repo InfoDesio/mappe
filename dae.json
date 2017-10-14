@@ -5,12 +5,12 @@
     {
       "KEY": "FOUND",
       "TEXT": "DAE PRESENTE",
-      "TYPE": "CHECK"
+      "TYPE": "OPTION"
     },
     {
       "KEY": "NOFOUND",
       "TEXT": "DAE NON PRESENTE",
-      "TYPE": "CHECK"
+      "TYPE": "OPTION"
     }
   ]
 }
