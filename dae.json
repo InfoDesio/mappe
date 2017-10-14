@@ -1,0 +1,16 @@
+{
+  "UID": "id",
+  "TITLE": "nome",
+  "EDIT": [
+    {
+      "KEY": "FOUND",
+      "TEXT": "DAE PRESENTE",
+      "TYPE": "CHECK"
+    },
+    {
+      "KEY": "NOFOUND",
+      "TEXT": "DAE NON PRESENTE",
+      "TYPE": "CHECK"
+    }
+  ]
+}
