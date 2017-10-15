@@ -1,4 +1,6 @@
 {
+  "SURVEY": "Rilevazione presenza DAE",
+  "IDSURVEY": "presenzadae",
   "UID": "id",
   "TITLE": "nome",
   "EDIT": [
