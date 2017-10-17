@@ -1,0 +1,24 @@
+{
+  "SURVEY": "Rilevazione presenza DAE",
+  "IDSURVEY": "presenzadae",
+  "UID": "8",
+  "TITLE": "CIMITERO COMUNALE MONUMENTALE",
+  "EDIT": [
+    {
+      "KEY": "FOUND",
+      "TEXT": "DAE PRESENTE",
+      "TYPE": "OPTION",
+      "VALUE": true
+    },
+    {
+      "KEY": "NOFOUND",
+      "TEXT": "DAE NON PRESENTE",
+      "TYPE": "OPTION",
+      "VALUE": false
+    }
+  ],
+  "TABLE": "dae",
+  "user": "fErIL3zkgZfeqxfgWd0zzoJ1z8Q2",
+  "verified": true,
+  "googleplus": "116461971694897693934"
+}
