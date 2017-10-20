@@ -1,0 +1,13 @@
+[{
+  "SURVEY": "Rilevazione posizione Parchimetri",
+  "IDSURVEY": "position",
+  "UID": "uuid",
+  "TITLE": "indirizzo",
+  "EDIT": [
+    {
+      "KEY": "LOCATION",
+      "TEXT": "Posizione",
+      "TYPE": "MAP"
+    }
+  ]
+}]
