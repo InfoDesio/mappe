@@ -1,0 +1,19 @@
+{
+  "SURVEY": "Rilevazione posizione DAR",
+  "IDSURVEY": "position",
+  "UID": "3",
+  "TITLE": "PARROCCHIA / ORATORIO S.GIOVANNI BATTISTA",
+  "EDIT": [
+    {
+      "KEY": "LOCATION",
+      "TEXT": "Posizione",
+      "TYPE": "MAP",
+      "LAT": 45.618562325364536,
+      "LON": 9.1939664259552956
+    }
+  ],
+  "TABLE": "dae",
+  "user": "fErIL3zkgZfeqxfgWd0zzoJ1z8Q2",
+  "verified": true,
+  "googleplus": "116461971694897693934"
+}
