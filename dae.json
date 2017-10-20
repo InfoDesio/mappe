@@ -1,4 +1,4 @@
-{
+[{
   "SURVEY": "Rilevazione presenza DAE",
   "IDSURVEY": "presenzadae",
   "UID": "id",
@@ -15,4 +15,18 @@
       "TYPE": "OPTION"
     }
   ]
+},
+ {
+  "SURVEY": "Rilevazione posizione DAR",
+  "IDSURVEY": "position",
+  "UID": "id",
+  "TITLE": "nome",
+  "EDIT": [
+    {
+      "KEY": "LOCATION",
+      "TEXT": "Posizione",
+      "TYPE": "MAP"
+    }
+  ]
 }
+ ]
