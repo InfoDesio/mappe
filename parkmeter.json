@@ -1,6 +1,6 @@
 {
   "SURVEY": "Rilevazione posizione Parchimetri",
-  "IDSURVEY": "position_parkmeter",
+  "IDSURVEY": "position",
   "UID": "uuid",
   "TITLE": "indirizzo",
   "EDIT": [
