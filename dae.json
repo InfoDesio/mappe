@@ -1,32 +1,15 @@
-[{
-  "SURVEY": "Rilevazione presenza DAE",
-  "IDSURVEY": "presenzadae",
-  "UID": "id",
-  "TITLE": "nome",
-  "EDIT": [
-    {
-      "KEY": "FOUND",
-      "TEXT": "DAE PRESENTE",
-      "TYPE": "OPTION"
-    },
-    {
-      "KEY": "NOFOUND",
-      "TEXT": "DAE NON PRESENTE",
-      "TYPE": "OPTION"
-    }
-  ]
-},
- {
-  "SURVEY": "Rilevazione posizione DAE",
-  "IDSURVEY": "position",
-  "UID": "id",
-  "TITLE": "nome",
-  "EDIT": [
-    {
-      "KEY": "LOCATION",
-      "TEXT": "Posizione",
-      "TYPE": "MAP"
-    }
-  ]
-}
- ]
+[
+  {
+    "SURVEY": "Rilevazione posizione DAE",
+    "IDSURVEY": "position",
+    "UID": "id",
+    "TITLE": "nome",
+    "EDIT": [
+      {
+        "KEY": "LOCATION",
+        "TEXT": "Posizione",
+        "TYPE": "MAP"
+      }
+    ]
+  }
+]
