@@ -1,0 +1,19 @@
+{
+  "SURVEY": "Rilevazione posizione DAE",
+  "IDSURVEY": "position",
+  "UID": "24",
+  "TITLE": "SCUOLE ELEMENTARI",
+  "EDIT": [
+    {
+      "KEY": "LOCATION",
+      "TEXT": "Posizione",
+      "TYPE": "MAP",
+      "LAT": 45.614400684317722,
+      "LON": 9.21134177595377
+    }
+  ],
+  "TABLE": "dae",
+  "user": "fErIL3zkgZfeqxfgWd0zzoJ1z8Q2",
+  "verified": true,
+  "googleplus": "116461971694897693934"
+}
