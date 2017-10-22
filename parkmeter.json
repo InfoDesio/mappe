@@ -10,4 +10,28 @@
       "TYPE": "MAP"
     }
   ]
-}]
+},
+{
+  "SURVEY": "Tipo parchimetro",
+  "IDSURVEY": "type_parkmeter",
+  "UID": "uuid",
+  "TITLE": "indirizzo",
+  "EDIT": [
+    {
+      "KEY": "nopos",
+      "TEXT": "Bancomat non presente",
+      "TYPE": "OPTION"
+    },
+    {
+      "KEY": "pos",
+      "TEXT": "Bancomap presente",
+      "TYPE": "OPTION"
+    },
+    {
+      "KEY": "less",
+      "TEXT": "Solo contactless",
+      "TYPE": "OPTION"
+    }
+  ]
+}
+]
