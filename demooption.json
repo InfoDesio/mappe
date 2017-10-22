@@ -1,0 +1,18 @@
+{
+  "SURVEY": "Descrizione evento",
+  "IDSURVEY": "id evento",
+  "UID": "id target",
+  "TITLE": "nome target",
+  "EDIT": [
+    {
+      "KEY": "Chiave",
+      "TEXT": "Descrizione",
+      "TYPE": "OPTION"
+    },
+    {
+      "KEY": "Chiave",
+      "TEXT": "Descrizione",
+      "TYPE": "OPTION"
+    }
+  ]
+}
