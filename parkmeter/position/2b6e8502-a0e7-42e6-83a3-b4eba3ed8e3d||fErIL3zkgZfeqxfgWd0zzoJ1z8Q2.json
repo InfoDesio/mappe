@@ -1,0 +1,19 @@
+{
+  "SURVEY": "Rilevazione posizione Parchimetri",
+  "IDSURVEY": "position",
+  "UID": "2b6e8502-a0e7-42e6-83a3-b4eba3ed8e3d",
+  "TITLE": "Via Piazzale Giovanni Paolo II",
+  "EDIT": [
+    {
+      "KEY": "LOCATION",
+      "TEXT": "Posizione",
+      "TYPE": "MAP",
+      "LAT": 45.620397279718723,
+      "LON": 9.2083423957228661
+    }
+  ],
+  "TABLE": "parkmeter",
+  "user": "fErIL3zkgZfeqxfgWd0zzoJ1z8Q2",
+  "verified": true,
+  "googleplus": "116461971694897693934"
+}
