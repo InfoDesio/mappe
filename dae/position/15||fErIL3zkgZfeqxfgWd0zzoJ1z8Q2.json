@@ -1,0 +1,19 @@
+{
+  "SURVEY": "Rilevazione posizione DAE",
+  "IDSURVEY": "position",
+  "UID": "15",
+  "TITLE": "ORATORIO B.V.I.",
+  "EDIT": [
+    {
+      "KEY": "LOCATION",
+      "TEXT": "Posizione",
+      "TYPE": "MAP",
+      "LAT": 45.614882621258417,
+      "LON": 9.2093435302376747
+    }
+  ],
+  "TABLE": "dae",
+  "user": "fErIL3zkgZfeqxfgWd0zzoJ1z8Q2",
+  "verified": true,
+  "googleplus": "116461971694897693934"
+}
