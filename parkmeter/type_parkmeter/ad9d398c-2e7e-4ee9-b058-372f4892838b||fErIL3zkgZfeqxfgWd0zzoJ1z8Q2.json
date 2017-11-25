@@ -1,0 +1,30 @@
+{
+  "SURVEY": "Tipo parchimetro",
+  "IDSURVEY": "type_parkmeter",
+  "UID": "ad9d398c-2e7e-4ee9-b058-372f4892838b",
+  "TITLE": "Via Tripoli 7",
+  "EDIT": [
+    {
+      "KEY": "nopos",
+      "TEXT": "Bancomat non presente",
+      "TYPE": "OPTION",
+      "VALUE": false
+    },
+    {
+      "KEY": "pos",
+      "TEXT": "Bancomap presente",
+      "TYPE": "OPTION",
+      "VALUE": false
+    },
+    {
+      "KEY": "less",
+      "TEXT": "Solo contactless",
+      "TYPE": "OPTION",
+      "VALUE": true
+    }
+  ],
+  "TABLE": "parkmeter",
+  "user": "fErIL3zkgZfeqxfgWd0zzoJ1z8Q2",
+  "verified": true,
+  "googleplus": "116461971694897693934"
+}
