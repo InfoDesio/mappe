@@ -38,5 +38,14 @@
     "LAT": "latitudine",
     "LON": "longitudine",
     "TITLE": "codice"
+  },
+  {
+    "ID": "sacchiblu",
+    "Nome": "Distribuzione sacchi blu",
+    "URL": "https://raw.githubusercontent.com/InfoDesio/raccoltarifiuti/master/mapparitiri.json",
+    "LAT": "latitude",
+    "LON": "longitude",
+    "TITLE": "name",
+    "SNIPPET":"description"
   }
 ]
